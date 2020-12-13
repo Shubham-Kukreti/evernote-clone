@@ -18,3 +18,19 @@ code {
 .brand-logo{
   margin-left: 10px;
 }
+
+form{
+  padding: 20px;
+  margin: 60px;
+
+}
+
+.note{
+  padding:10px;
+  margin-bottom:30px;
+}
+
+.notesList{
+  padding:20px;
+  margin-top:60px;
+}
